@@ -1,5 +1,4 @@
-// export const host = "http://54.205.63.108:5000";
-export const host = "http://172.31.26.201:5000";
+export const host = "http://54.205.63.108:5000";
 export const loginRoute = `${host}/api/auth/login`;
 export const registerRoute = `${host}/api/auth/register`;
 export const logoutRoute = `${host}/api/auth/logout`;
