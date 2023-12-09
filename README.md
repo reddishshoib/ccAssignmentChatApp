@@ -1,4 +1,4 @@
-# Snappy - Chat Application 
+# This is Cloud Computing Assignment - Chat Application 
 CC Assignment is chat application build with the power of MERN Stack. You can find the tutorial
 
 
@@ -13,16 +13,7 @@ Both should be installed and make sure mongodb is running.
 ```shell
 git clone https://github.com/koolkishan/chat-app-react-nodejs
 cd chat-app-react-nodejs
-```
-Now rename env files from .env.example to .env
-```shell
-cd public
-mv .env.example .env
-cd ..
-cd server
-mv .env.example .env
-cd ..
-```
+
 
 Now install the dependencies
 ```shell
